@@ -19,7 +19,7 @@ This project demonstrates a simple microservices architecture using NestJS frame
     ┌───────────▼─────────┐   ┌─────────▼───────────┐
     │                     │   │                     │
     │ sample-communication│   │  sample-analytics   │
-    │       (3001)        │   │    (3002/3003)     │
+    │       (3001)        │   │    (3002/3003)      │
     │                     │   │                     │
     └─────────────────────┘   └─────────────────────┘
 ```
